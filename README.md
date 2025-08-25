@@ -1,4 +1,4 @@
-# Agent Development Kits (ADKs) Index (August 2025)
+# Agent Development Kits (ADKs) Snapshot Index (August 2025)
 
 ![alt text](banner.png)
 
